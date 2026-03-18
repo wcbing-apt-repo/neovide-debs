@@ -1,6 +1,6 @@
 format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: neovide
-Source: https://github.com/neovide/neovide/releases
+Source: https://github.com/neovide/neovide
 
 Files: *
 Copyright:
@@ -8,7 +8,7 @@ Copyright:
  Copyright (c) 2022-2023 Neovide Contributors
 License: MIT
 
-Files: DEBIAN/*
+Files: debian/*
 Copyright: 2025 wcbing <i@wcbing.top>
 License: MIT
 

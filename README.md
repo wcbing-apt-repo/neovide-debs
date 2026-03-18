@@ -1,6 +1,6 @@
-自行打包的 [neovide](https://github.com/neovide/neovide)，适用于 Debian 或基于 Debian 的发行版。
+自行打包的 [neovide](https://github.com/neovide/neovide)，适用于基于 Debian 的发行版。
 
-Self-packaged [neovide](https://github.com/neovide/neovide), suitable for Debian and Debian-based distros.
+Self-packaged [neovide](https://github.com/neovide/neovide), suitable for Debian-based distro.
 
 
 ## Usage/用法
